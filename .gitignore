@@ -84,3 +84,6 @@ Testing/
 
 # My stuff
 cbonsai-master/
+CMakeLists.txt
+.vscode/
+.vscode/c_cpp_properties.json

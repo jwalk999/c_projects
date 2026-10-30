@@ -10,11 +10,11 @@ This is a block comment.
 // basic C program
 
 
-# include <studio.h>
+# include <stdio.h>
 
 int main()
 {
-    printf("Hellow World!");
+    printf("Hellow World!\n");
     printf("welcome");
 
     return 0;
